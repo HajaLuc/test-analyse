@@ -1,0 +1,33 @@
+<center>
+#### Flop
+
+Les vues des Dash CNTO et CBTW ont beaucoup diminué ce mois ci
+pour CBTW c'est assez comprehensible vu le temps de chargement, d'où la motivation derriere la refonte
+du Dash
+
+
+</center>
+
+![dash up](module/glossaire/analyse_09082022/flop.jpg)*
+
+<center>
+#### Max
+
+On est encore très loin des 41 users actifs en juin,
+mais en se focusant sur les Dash ayant un poids elevé (TLRO, RO, CNTO, UP, VISA)
+on devrait pouvoir rehausser ce chiffre
+
+
+</center>
+
+![dash up petrolier](module/glossaire/analyse_09082022/max.jpg)*
+
+<center>
+#### VISA
+
+Un seul actif sur VISA ce mois ci
+Il faudrait revoir les besoins
+
+</center>
+
+![dash up petrolier](module/glossaire/analyse_09082022/visa.jpg)*

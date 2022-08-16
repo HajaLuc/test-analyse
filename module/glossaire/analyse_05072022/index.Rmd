@@ -1,0 +1,19 @@
+<center>
+#### Potentiel Juillet
+Le nombre actif global Juin a atteint un nouveau summum 42</center>
+
+En Juillet on a aujourd'hui 13 actifs, en activant les 29 actifs de Juin mais inactifs Juillet, on retombe sur les 42. 
+
+La plupart des inactifs sur les 2 mois sont soi des anciens login soi des anciens collaborateurs. 
+On ne peut pas trop miser sur ceux là.
+</center>
+![actif global](module/glossaire/analyse_05072022/inactif_5july.jpg)*
+
+<center>
+#### Max Daily
+
+Sur le daily jusque là le maximum d'actif est de 20, chiffre qu'on obtient essentellement les lundis.
+On peut supposer que ce sont les dates de points hebdomadaires ou la veille.
+On peut se challenger sur ce chiffre en etudiant les besoins des clients au quotidiens.</center>
+
+![dash mfs](module/glossaire/analyse_05072022/max_daily.jpg)*

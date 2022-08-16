@@ -1,0 +1,11 @@
+<center>
+### Potentiel Juillet 
+On arrive à 33 utilisateurs actifs aujourd'hui avec potentiellement 46 en reactivant les utisateurs de Juin
+![all](module/glossaire/analyse_18072022/monthly_global.jpg)*
+### Potentiel Dashs
+Les Dash API et Fintech ont chacun 3 utilisateurs inactif ce mois ci, il faudrait checker les Dash voir si tout est conforme à leur besoin
+![negmom](module/glossaire/analyse_18072022/neg_mom.jpg)*
+![negmom2](module/glossaire/analyse_18072022/neg_mom2.jpg)*
+### UP
+Nombre et durée de connexion moyen en chute libre sur le Dash UP alors que le Dash présente toutes les informations demandées, il faudrait sensibiliser le metier sur la comprehension des elements graphiques et integrer toute l'equipe
+![negmom2](module/glossaire/analyse_18072022/up.jpg)*

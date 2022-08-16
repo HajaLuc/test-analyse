@@ -1,0 +1,15 @@
+<center>
+### Filtre BDA
+Les Data Steward ont tous été ajouté dans le filtre BDA
+Ce qui nous donne la nouvelle tendance ajustée ci dessous (avec le maximum ce mois ci)
+![all](module/glossaire/analyse_20062022/all.jpg)*
+### Comores
+A cause de la restriction du VPN, on perd les clients de Comores (Rachid et Said)
+![comores](module/glossaire/analyse_20062022/comores.jpg)*
+### JIRAMA
+Hasiniaina n'est pas actif sur JIRAMA ce mois ci, elle aurait plutot besoin des données en temps réel
+![duree moyenne](module/glossaire/analyse_20062022/jirama.jpg)*
+### VISA et Epargne
+Les chefs de produits VISA et epargnes sont actifs et pas les responsables MFS ce qui peut indiquer qu'ils maitrisent leurs sujets mais qu'il faudrait connaitre les eventuels autres besoins plus generaux des responsables MFS
+![duree moyenne](module/glossaire/analyse_20062022/visa.jpg)*
+![duree moyenne](module/glossaire/analyse_20062022/epargne.jpg)*

@@ -1,0 +1,8 @@
+<center>
+### Max User
+Le nombre d'user a de nouveau atteint le maximum (35) <br>
+On peut se fixer comme objectif de depasser ce nombre gràce à:
+- La team CCPJ qui devrait être actif sur le Dash KYC et Float
+- La team CNTO qui devrait être actif sur le Dash CNTO
+- La team UP, devrait être actif sur le Dash UP vue qu'on va faire une refonte sur le Dash
+![duree moyenne](module/glossaire/analyse_30052022/max_user.jpg)*

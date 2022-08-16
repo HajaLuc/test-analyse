@@ -1,0 +1,25 @@
+<center>
+### RECAP GLOBAL
+Le Dash Fintech API est le premier dash ayant le plus d'actif</center><br>
+![global](module/glossaire/analyse_11042022/recap_11042022.PNG)*
+
+<center>
+### Dash Fintech API
+Il y a tous les jours des actifs la semaine dernière</center><br>
+![fintech](module/glossaire/analyse_11042022/fintech_11042022.PNG)*
+
+<center>
+### Dash UP
+La plupart des user ont déjà connecté</center><br>
+![dash up](module/glossaire/analyse_11042022/up_table_11042022.PNG)*
+
+<center>
+### Loan Insight
+Les vues de l'ancien dash diminuent.<center>
+![loan](module/glossaire/analyse_11042022/loanV1.jpg)*
+<center>
+Les metiers commencent à adopter le nouveau Dash.<center>
+![loanv2](module/glossaire/analyse_11042022/loanV2.jpg)*
+<center>
+Sur l'ancien dash les utilisateurs se connectaient plusieurs fois mais ne restaient pas longtemps sur le dash contrairement au nouveau <center>
+![loanv2](module/glossaire/analyse_11042022/loanV1nbcnnx.jpg)*

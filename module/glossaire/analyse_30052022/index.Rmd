@@ -1,0 +1,5 @@
+<center>
+### Max User
+Le nombre d'user a de nouveau atteint le maximum (35) <br>
+On peut se fixer comme objectif de depasser ce nombre en comptant les clients CCPJ qui devrait être actif sur le Dash KYC et Float
+![duree moyenne](module/glossaire/analyse_30052022/max_user.jpg)*

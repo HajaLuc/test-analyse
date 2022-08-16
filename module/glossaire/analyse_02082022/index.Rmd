@@ -1,0 +1,25 @@
+<center>
+### GLOBAL
+Objectif non atteint pour le mois de Juillet
+</center><br>
+![global](module/glossaire/analyse_02082022/juillet.jpg)*
+
+<center>
+### Top Dash
+Top Dash en hausse par rapport aux vues sauf RO et Jirama
+</center><br>
+![top dash](module/glossaire/analyse_02082022/recap_juillet.jpg)*
+
+<center>
+### Max Daily
+Le pic est descendu à 18 contre 20 aux mois précédents.
+Surement un effet des metiers vacants
+</center><br>
+![top dash](module/glossaire/analyse_02082022/max_daily.jpg)*
+
+<center>
+### Loan
+Plus d'actif sur loan, moins de nombre de connexion, hausse de la durée moyenne.
+Un indicateur potentiellement positif pour dire que les utilisateurs restent plus longtemps sur le Dash
+</center><br>
+![top dash](module/glossaire/analyse_02082022/loan_07.jpg)*

@@ -1,0 +1,18 @@
+<center>
+#### GLOBAL
+Le nombre actif des dash a diminué</center>
+
+![actif global](module/glossaire/analyse_12072022/global.PNG)*
+
+<center>
+#### Actif daily
+
+Les utilisateurs du Dash TLRO sont actifs presque tous les jours
+![dash tlro](module/glossaire/analyse_12072022/tlro_daily.PNG)*
+</center>
+
+<center>
+Contrairement aux utilisateurs du dash Loan V2
+</center>
+
+![dash loan v2](module/glossaire/analyse_12072022/loan_daily.PNG)*

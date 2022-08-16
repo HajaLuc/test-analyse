@@ -1,0 +1,18 @@
+<center>
+#### GLOBAL
+Le nombre actif global augmente juqu'à 41</center>
+
+![actif global](module/glossaire/analyse_28062022/global_28062022.PNG)*
+
+<center>
+#### Explication
+
+Nouveaux collaborateurs dans l'équipe MFS, ont augemnté le nombre actif dans certains dash MFS</center>
+
+![dash mfs](module/glossaire/analyse_28062022/dash_mfs_28062022.PNG)*
+
+<center>
+Arrivé du CBM dans l'équipe DOPE, a augmenter le nombre d'actif dans le dash aquisition/certif GP
+</center>
+
+![dash gp](module/glossaire/analyse_28062022/gp_28062022.PNG)*

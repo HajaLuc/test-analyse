@@ -1,0 +1,20 @@
+<center>
+### GLOBAL
+Nb de connection et temps de connection en hausse pour le mois de Mars</center><br>
+![global](module/glossaire/analyse_04042022/global_04042022.PNG)*
+
+<center>
+### Dash BTWWTB
+Nb de connection en hausse pour le mois de Mars. Cependant, pour le mois d'Avril pas encore d'actif</center><br>
+![btwwtb](module/glossaire/analyse_04042022/btwwtb_04042022.PNG)*
+
+<center>
+### Dash UP
+Pas encore d'actfi pour le mois d'Avril. Or pour le mois de Mars, le nb de connection est élévé</center><br>
+![dash up](module/glossaire/analyse_04042022/dash_up_04042022.PNG)*
+
+<center>
+### Dash CNTO
+Nb de connection en hausse<br>
+=> Refonte et rajout des nouveaux KPIs, fiabilisation des données appel entrant </center><br>
+![cnto](module/glossaire/analyse_04042022/cnto_04042022.PNG)*

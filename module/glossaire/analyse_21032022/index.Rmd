@@ -1,0 +1,11 @@
+<center>
+### Dash BWTWTB
+Le nombre de connnection a prèsque doublé, alors que le nombre d'utilisateur a diminué<br>
+La durée moyenne de connexion a aussi augmenté</center><br>
+![duree moyenne](module/glossaire/analyse_21032022/btw_23032022.PNG)*
+
+<center>
+### Dash CNTO
+Même remarque pour le dash CNTO<br>
+=> Reprise point avec Louis et Isabelle</center><br>
+![meme remarque](module/glossaire/analyse_21032022/cnto_23032022.PNG)*

@@ -1,0 +1,17 @@
+<center>
+#### Dash TLRO
+Diminution de nombre actif pour la semaine dernière, causer par le VPN KO</center>
+
+![tlro](module/glossaire/analyse_24052022/trlo.PNG)*
+
+<center>
+#### EPARGNE
+L'utilisation est de plus en plus fréquente grâce au nouveau arrivé de la team MFS</center>
+
+![epargne](module/glossaire/analyse_24052022/epargne.PNG)*
+
+<center>
+#### Dash CNTO
+Augmentation de nb actif, suivi des activités/performances des agents de CNTO sur les appels recouvrement de MVola avance</center>
+
+![xcnto](module/glossaire/analyse_24052022/cnto.PNG)*

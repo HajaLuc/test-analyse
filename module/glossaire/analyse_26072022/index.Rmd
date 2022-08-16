@@ -1,0 +1,15 @@
+<center>
+#### Evolution MoM
+<center>Les mêmes flop du point de vue Evolution MoM, on a pas encore pu checker ce qui manque pour reactiver ces utilisateurs, ça reste à determiner</center>
+<center>Le Dash UP commence à prendre de l'ampleur et cela devrait continuer car le dashboard est sensé être à terme un pilotage complet de leur activité</center>
+
+![flop](module/glossaire/analyse_26072022/flop_mom.jpg)*
+![top](module/glossaire/analyse_26072022/top_mom.jpg)*
+
+<center>
+#### GP
+<center>Aucune vue sur le mois, il faut revoir les besoins
+Mais déja on espere que la MEP de la comprehension 360 GP ramenera les principaux concernés
+</center>
+
+![epargne](module/glossaire/analyse_26072022/GP.jpg)*
